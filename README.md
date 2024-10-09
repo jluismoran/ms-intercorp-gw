@@ -1,2 +1,2 @@
 # ms-intercorp-gw
-Gateway para las APIs de tareas
+API Gateway para las APIs de tareas
